@@ -31,8 +31,11 @@ Tkinter (comes pre-installed with Python)
 
 Clone the repository:
 
-git clone https://github.com/chaptercrack-ui/Offline-Typing-Tutor.git
-cd Offline-Typing-Tutor
+```bash
+  git clone https://github.com/chaptercrack-ui/Offline-Typing-Tutor.git
+
+  cd Offline-Typing-Tutor
+```
 
 
 Run the app:
