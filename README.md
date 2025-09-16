@@ -1,9 +1,9 @@
-Offline Typing Tutor (Windows 11)
+##Offline Typing Tutor (Windows 11)
 
 A simple offline typing tutor software built with Python (Tkinter).
 This application allows users to practice typing with random words, track accuracy, and measure typing speed (WPM).
 
-✨ Features
+##✨ Features
 
 ⏳ Customizable Time Limit – Set typing test duration (e.g., 1 min, 5 min).
 
@@ -21,13 +21,13 @@ Incorrect words
 
 Accuracy percentage
 
-🖥️ Requirements
+##🖥️ Requirements
 
 Python 3.10+ (tested on Python 3.13 & Windows 11)
 
 Tkinter (comes pre-installed with Python)
 
-🚀 How to Run
+##🚀 How to Run
 
 Clone the repository:
 
@@ -38,7 +38,9 @@ Clone the repository:
 ```
 
 
-Run the app:
+##Run the app:
 
-python app.py
+```bash
+  python app.py
+```
 
