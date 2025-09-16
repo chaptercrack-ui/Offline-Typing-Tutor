@@ -27,7 +27,7 @@ Python 3.10+ (tested on Python 3.13 & Windows 11)
 Tkinter (comes pre-installed with Python)
 ## Installation
 
-Install my-project with npm
+Install my-project
 
 ```bash
   git clone https://github.com/chaptercrack-ui/Offline-Typing-Tutor.git
